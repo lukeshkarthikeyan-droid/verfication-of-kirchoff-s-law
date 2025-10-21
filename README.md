@@ -57,6 +57,7 @@ TABULATION :
  
 
 CALCULATION:
+
 <img width="786" height="1386" alt="image" src="https://github.com/user-attachments/assets/43e64b8a-ed7f-4785-8436-e67c52fa63c4" />
 
   
