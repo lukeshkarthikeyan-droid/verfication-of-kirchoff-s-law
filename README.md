@@ -52,9 +52,13 @@
 
 
 TABULATION :
+<img width="940" height="1343" alt="image" src="https://github.com/user-attachments/assets/01361480-a876-433d-b9eb-4a1bc1709dee" />
+
  
 
 CALCULATION:
+<img width="786" height="1386" alt="image" src="https://github.com/user-attachments/assets/43e64b8a-ed7f-4785-8436-e67c52fa63c4" />
+
   
 MARK SPLIT UP:
 <img width="940" height="805" alt="image" src="https://github.com/user-attachments/assets/5612f35d-dbc7-4857-9da3-6fd7e7a49cfa" />
